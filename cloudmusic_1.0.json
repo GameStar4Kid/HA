@@ -3,6 +3,7 @@
 		"Limit": "0",
 		"YT": "0",
 		"FB": "0",
-		"APP_URL":"itms-apps://itunes.apple.com/app/id1520660578"
+		"APP_URL":"itms-apps://itunes.apple.com/app/id1520660578",
+		"IAP": "1"
 	}
 }
