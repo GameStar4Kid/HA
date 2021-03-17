@@ -2,7 +2,7 @@
 	"Item": {
 		"Limit": "1",
 		"Sub": "1",
-		"IAP": "1",
+		"IAP": "0",
 		"APP_URL":"https://apps.apple.com/us/app/browser-4g-split-customize/id1543998099"
 	}
 }
