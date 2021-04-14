@@ -1,8 +1,8 @@
 {
 	"Item": {
-		"Limit": "1",
-		"Sub": "1",
-		"IAP": "1",
+		"Limit": "0",
+		"Sub": "0",
+		"IAP": "0",
 		"APP_URL":"itms-apps://itunes.apple.com/us/app/aimp-music-player/id1521058105?mt=8&action=write-review"
 	}
 }
